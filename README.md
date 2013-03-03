@@ -1,7 +1,7 @@
 QSTK-IPy-Notebook
 =================
 
-IPython Notebook versions of QSTK tutrials
+IPython Notebook versions of QSTK tutorials
 
 The easiest way to use these is to untar QSTK into the directory of this project. For example:
 ```bash
